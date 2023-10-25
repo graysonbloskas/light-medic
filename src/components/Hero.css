@@ -1,0 +1,50 @@
+.bg-image {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: -1;
+}
+
+.contain {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: inset 0px 0px 0px 1000px rgba(0, 0, 0, 0.01);
+  object-fit: contain;
+  justify-content: center;
+}
+
+.hero-title {
+  font-family: "Playfair Display", serif;
+  color: #fff;
+  font-size: 100px;
+  margin-top: -100px;
+}
+
+.hero-text {
+  font-family: "Playfair Display", serif;
+  margin-top: 8px;
+  color: #fff;
+  font-size: 32px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+@media screen and (max-width: 960px) {
+  .hero-title {
+    font-size: 70px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .hero-title {
+    font-size: 50px;
+    /* margin-top: -100px; */
+  }
+
+  .hero-text {
+    font-size: 30px;
+    text-align: center;
+  }
+}
