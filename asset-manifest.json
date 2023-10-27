@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c6a72498.css",
-    "main.js": "/static/js/main.ff05c497.js",
-    "static/js/787.6d87f60a.chunk.js": "/static/js/787.6d87f60a.chunk.js",
+    "main.js": "/static/js/main.fce7ec42.js",
+    "static/js/787.7aa35f5f.chunk.js": "/static/js/787.7aa35f5f.chunk.js",
     "static/media/miniature-house-model-with-house-layout-plan-2022-12-16-12-28-27-utc.JPG": "/static/media/miniature-house-model-with-house-layout-plan-2022-12-16-12-28-27-utc.372d1433edbd14d5a8fd.JPG",
     "static/media/christmas-gift-boxes-festive-lights-santa-hat-an-2021-08-29-03-41-53-utc.JPG": "/static/media/christmas-gift-boxes-festive-lights-santa-hat-an-2021-08-29-03-41-53-utc.74261cc1080ff995666d.JPG",
     "static/media/694x463OutletsinOutlets.png": "/static/media/694x463OutletsinOutlets.5bbcf9b1b8ec8cc1e3a2.png",
@@ -13,11 +13,11 @@
     "static/media/iStock-1193535068-prevent-christmas-light-decor-light-timer-650x432.webp": "/static/media/iStock-1193535068-prevent-christmas-light-decor-light-timer-650x432.d08c25f57f6b8fc342dd.webp",
     "index.html": "/index.html",
     "main.c6a72498.css.map": "/static/css/main.c6a72498.css.map",
-    "main.ff05c497.js.map": "/static/js/main.ff05c497.js.map",
-    "787.6d87f60a.chunk.js.map": "/static/js/787.6d87f60a.chunk.js.map"
+    "main.fce7ec42.js.map": "/static/js/main.fce7ec42.js.map",
+    "787.7aa35f5f.chunk.js.map": "/static/js/787.7aa35f5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6a72498.css",
-    "static/js/main.ff05c497.js"
+    "static/js/main.fce7ec42.js"
   ]
 }
