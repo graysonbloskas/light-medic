@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/light-medic/static/css/main.c6a72498.css",
-    "main.js": "/light-medic/static/js/main.e5bb8d40.js",
+    "main.js": "/light-medic/static/js/main.69069e93.js",
     "static/js/787.7aa35f5f.chunk.js": "/light-medic/static/js/787.7aa35f5f.chunk.js",
     "static/media/miniature-house-model-with-house-layout-plan-2022-12-16-12-28-27-utc.JPG": "/light-medic/static/media/miniature-house-model-with-house-layout-plan-2022-12-16-12-28-27-utc.372d1433edbd14d5a8fd.JPG",
     "static/media/christmas-gift-boxes-festive-lights-santa-hat-an-2021-08-29-03-41-53-utc.JPG": "/light-medic/static/media/christmas-gift-boxes-festive-lights-santa-hat-an-2021-08-29-03-41-53-utc.74261cc1080ff995666d.JPG",
@@ -13,11 +13,11 @@
     "static/media/iStock-1193535068-prevent-christmas-light-decor-light-timer-650x432.webp": "/light-medic/static/media/iStock-1193535068-prevent-christmas-light-decor-light-timer-650x432.d08c25f57f6b8fc342dd.webp",
     "index.html": "/light-medic/index.html",
     "main.c6a72498.css.map": "/light-medic/static/css/main.c6a72498.css.map",
-    "main.e5bb8d40.js.map": "/light-medic/static/js/main.e5bb8d40.js.map",
+    "main.69069e93.js.map": "/light-medic/static/js/main.69069e93.js.map",
     "787.7aa35f5f.chunk.js.map": "/light-medic/static/js/787.7aa35f5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6a72498.css",
-    "static/js/main.e5bb8d40.js"
+    "static/js/main.69069e93.js"
   ]
 }
