@@ -1,15 +1,11 @@
-import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
-import { HashLink } from 'react-router-hash-link';
-import Snowfall from 'react-snowfall';
-// import Logo from '../assets/images/mobile-carwash-02.png';
-import './Navbar.css';
-import { animateScroll as scroll } from 'react-scroll';
+import React, { useState } from "react";
+import { Link } from "react-router-dom";
+import { HashLink } from "react-router-hash-link";
+import Snowfall from "react-snowfall";
+import "./Navbar.css";
+import { animateScroll as scroll } from "react-scroll";
 
 function Navbar() {
-    
-
-
   const [click, setClick] = useState(false);
   // const [button, setButton] = useState(true);
 
@@ -22,53 +18,44 @@ function Navbar() {
   };
 
   const toggleContact = () => {
-    scroll.scrollToBottom()
+    scroll.scrollToBottom();
     closeMobileMenu();
-  }
+  };
 
-  window.addEventListener('scroll', toggleHome);
-
-  
+  window.addEventListener("scroll", toggleHome);
 
   return (
     <>
-      <nav className='navbar color'>
+      <nav className="navbar color">
         <Snowfall />
-        <div className='navbar-container'>
+        <div className="navbar-container">
           {/* <Link to='/' className='navbar-logo' onClick={toggleHome}>
             <img src={Logo} alt='' className='logo' />
           </Link> */}
-          <div className='menu-icon' onClick={handleClick}>
-            <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
+          <div className="menu-icon" onClick={handleClick}>
+            <i className={click ? "fas fa-times" : "fas fa-bars"} />
           </div>
-          <ul className={click ? 'nav-menu active' : 'nav-menu'}>
-            <li className='nav-item'>
-              <HashLink to='/#hero' className='nav-links' onClick={toggleHome} >
+          <ul className={click ? "nav-menu active" : "nav-menu"}>
+            <li className="nav-item">
+              <Link to="/" className="nav-links" onClick={toggleHome}>
                 Home
-              </HashLink>
+              </Link>
             </li>
-            <li className='nav-item'>
-
+            <li className="nav-item">
               <HashLink
-                to='/#services'
-                className='nav-links'
-                onClick={toggleHome}
+                to="/#services"
+                className="nav-links"
+                // onClick={toggleHome}
               >
                 Services
               </HashLink>
             </li>
-            <li className='nav-item'>
-              <Link
-                to='/contact'
-                className='nav-links'
-                onClick={toggleContact}
-              >
+            <li className="nav-item">
+              <Link to="/contact" className="nav-links" onClick={toggleContact}>
                 Request a Quote
               </Link>
             </li>
-            <li className='nav-item'>
-              
-            </li>
+            <li className="nav-item"></li>
           </ul>
         </div>
       </nav>
