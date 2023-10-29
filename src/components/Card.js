@@ -22,13 +22,13 @@ function Card() {
                 src={CustomLight}
                 text='Crafting a unique lighting design to complement the architecture of your home and your personal tastes.'
                 label='Custom Light Design'
-                path='/contact'
+                path='/light-medic/contact'
               />
               <CardItem
                 src={LightInstall}
                 text='Safely installing Christmas lights on roofs, trees, and around your windows and other structures.'
                 label='Light Installation'
-                path='/contact'
+                path='/light-medic/contact'
               />
             </ul>
             <ul className='cards__items'>
@@ -36,13 +36,13 @@ function Card() {
                 src={CarWax}
                 text='Supplying high-quality, energy-efficient lighting materials and decorations to brighten your home.'
                 label='Lighting Material Supply'
-                path='/contact'
+                path='/light-medic/contact'
               />
               <CardItem
                 src={WheelPolish}
                 text='Ensuring the electrical load of the lights is safe and within the capacity of your home’s electrical system.'
                 label='Electrical Safety Assessment'
-                path='/contact'
+                path='/light-medic/contact'
               />
             </ul>
             <ul className='cards__items'>
@@ -50,13 +50,13 @@ function Card() {
                 src={Timer}
                 text='Configuring timers to automate the turning on and off of lights, saving energy and adding convenience for you.'
                 label='Timer Setup'
-                path='/contact'
+                path='/light-medic/contact'
               />
               <CardItem
                 src={Dusting}
                 text='Carefully taking down the lights at the end of the season and providing storage solutions if you need them.'
                 label='Removal and Storage'
-                path='/contact'
+                path='/light-medic/contact'
               />
             </ul>
           </div>
@@ -73,7 +73,7 @@ function Card() {
                 src={Shampoo}
                 text='Offering services to local businesses to brighten up their storefronts during the festive season.'
                 label='Commercial Lighting Installation'
-                path='/contact'
+                path='/light-medic/contact'
               />
             </ul>
           </div>
