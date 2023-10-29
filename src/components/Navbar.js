@@ -37,13 +37,13 @@ function Navbar() {
           </div>
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
-              <Link to="/" className="nav-links" onClick={toggleHome}>
+              <Link to="/light-medic/" className="nav-links" onClick={toggleHome}>
                 Home
               </Link>
             </li>
             <li className="nav-item">
               <HashLink
-                to="/#services"
+                to="/light-medic/#services"
                 className="nav-links"
                 // onClick={toggleHome}
               >
@@ -51,7 +51,7 @@ function Navbar() {
               </HashLink>
             </li>
             <li className="nav-item">
-              <Link to="/contact" className="nav-links" onClick={toggleContact}>
+              <Link to="/light-medic/contact" className="nav-links" onClick={toggleContact}>
                 Request a Quote
               </Link>
             </li>

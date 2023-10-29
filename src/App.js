@@ -10,8 +10,8 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route exact path='/' component={Homepage} />
-          <Route path='/contact' component={ContactPage} />
+          <Route exact path='/light-medic/' component={Homepage} />
+          <Route path='/light-medic/contact' component={ContactPage} />
         </Switch>
       </Router>
     </div>
