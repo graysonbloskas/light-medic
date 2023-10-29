@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/light-medic/static/css/main.36605450.css",
-    "main.js": "/light-medic/static/js/main.cd9bf9ab.js",
-    "static/js/787.7aa35f5f.chunk.js": "/light-medic/static/js/787.7aa35f5f.chunk.js",
-    "static/media/miniature-house-model-with-house-layout-plan-2022-12-16-12-28-27-utc.JPG": "/light-medic/static/media/miniature-house-model-with-house-layout-plan-2022-12-16-12-28-27-utc.372d1433edbd14d5a8fd.JPG",
-    "static/media/christmas-gift-boxes-festive-lights-santa-hat-an-2021-08-29-03-41-53-utc.JPG": "/light-medic/static/media/christmas-gift-boxes-festive-lights-santa-hat-an-2021-08-29-03-41-53-utc.74261cc1080ff995666d.JPG",
-    "static/media/694x463OutletsinOutlets.png": "/light-medic/static/media/694x463OutletsinOutlets.5bbcf9b1b8ec8cc1e3a2.png",
-    "static/media/iStock-461162955_res.jpg": "/light-medic/static/media/iStock-461162955_res.1a2d59955f100f82b411.jpg",
-    "static/media/Dv6XPG273KLwXtZPXue4sT-1600-80.jpg.webp": "/light-medic/static/media/Dv6XPG273KLwXtZPXue4sT-1600-80.jpg.14a7b5b681a376c983f9.webp",
-    "static/media/the-hop-exchange-london-bridge-southwark-london-christmas-5-648x432.jpg": "/light-medic/static/media/the-hop-exchange-london-bridge-southwark-london-christmas-5-648x432.6009c4aa3f66af6452cc.jpg",
-    "static/media/Christmas-Lights-1-scaled-e1666114947725-497x373.jpeg": "/light-medic/static/media/Christmas-Lights-1-scaled-e1666114947725-497x373.52ff2e0ca125a05718fb.jpeg",
-    "static/media/iStock-1193535068-prevent-christmas-light-decor-light-timer-650x432.webp": "/light-medic/static/media/iStock-1193535068-prevent-christmas-light-decor-light-timer-650x432.d08c25f57f6b8fc342dd.webp",
-    "index.html": "/light-medic/index.html",
-    "main.36605450.css.map": "/light-medic/static/css/main.36605450.css.map",
-    "main.cd9bf9ab.js.map": "/light-medic/static/js/main.cd9bf9ab.js.map",
-    "787.7aa35f5f.chunk.js.map": "/light-medic/static/js/787.7aa35f5f.chunk.js.map"
+    "main.css": "/static/css/main.36605450.css",
+    "main.js": "/static/js/main.71c96601.js",
+    "static/js/787.7aa35f5f.chunk.js": "/static/js/787.7aa35f5f.chunk.js",
+    "static/media/miniature-house-model-with-house-layout-plan-2022-12-16-12-28-27-utc.JPG": "/static/media/miniature-house-model-with-house-layout-plan-2022-12-16-12-28-27-utc.372d1433edbd14d5a8fd.JPG",
+    "static/media/christmas-gift-boxes-festive-lights-santa-hat-an-2021-08-29-03-41-53-utc.JPG": "/static/media/christmas-gift-boxes-festive-lights-santa-hat-an-2021-08-29-03-41-53-utc.74261cc1080ff995666d.JPG",
+    "static/media/694x463OutletsinOutlets.png": "/static/media/694x463OutletsinOutlets.5bbcf9b1b8ec8cc1e3a2.png",
+    "static/media/iStock-461162955_res.jpg": "/static/media/iStock-461162955_res.1a2d59955f100f82b411.jpg",
+    "static/media/Dv6XPG273KLwXtZPXue4sT-1600-80.jpg.webp": "/static/media/Dv6XPG273KLwXtZPXue4sT-1600-80.jpg.14a7b5b681a376c983f9.webp",
+    "static/media/the-hop-exchange-london-bridge-southwark-london-christmas-5-648x432.jpg": "/static/media/the-hop-exchange-london-bridge-southwark-london-christmas-5-648x432.6009c4aa3f66af6452cc.jpg",
+    "static/media/Christmas-Lights-1-scaled-e1666114947725-497x373.jpeg": "/static/media/Christmas-Lights-1-scaled-e1666114947725-497x373.52ff2e0ca125a05718fb.jpeg",
+    "static/media/iStock-1193535068-prevent-christmas-light-decor-light-timer-650x432.webp": "/static/media/iStock-1193535068-prevent-christmas-light-decor-light-timer-650x432.d08c25f57f6b8fc342dd.webp",
+    "index.html": "/index.html",
+    "main.36605450.css.map": "/static/css/main.36605450.css.map",
+    "main.71c96601.js.map": "/static/js/main.71c96601.js.map",
+    "787.7aa35f5f.chunk.js.map": "/static/js/787.7aa35f5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36605450.css",
-    "static/js/main.cd9bf9ab.js"
+    "static/js/main.71c96601.js"
   ]
 }
