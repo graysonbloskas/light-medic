@@ -3,6 +3,7 @@ import formId from '../config';
 import axios from 'axios';
 import ReCAPTCHA from 'react-google-recaptcha';
 import '../App.css';
+import { scrollToTop } from 'react-scroll/modules/mixins/animate-scroll';
 
 type FormState = {
   email: string;
@@ -18,8 +19,9 @@ type ServiceMessage = {
 };
 
 function ContactPage() {
+
   const formSparkUrl = `https://submit-form.com/${formId}`;
-  const recaptchaKey = '6LcEL1QcAAAAAE6PkTRYWnI0N9Cuo1YQDyor616e';
+  const recaptchaKey = '6Lco_N0oAAAAADfKiPy2X_dyB3Vs7rSpdrVEJEmJ';
   const recaptchaRef = useRef<any>();
 
   const initialFormState = {

@@ -105,7 +105,6 @@
   }
   
   .cards__item__img:hover {
-    font-family: "Playfair Display", serif;
     transform: scale(1.1);
   }
   
